@@ -13,6 +13,7 @@ class Solution:
         #     nums[i] = nums[i] ** 2
         # return sort(nums)
 
+
         # 方法2: 双指针
         # lens = len(nums)
         # # 左侧指针
