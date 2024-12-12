@@ -38,7 +38,6 @@ class Solution:
         # print(ss.find(s))
         # return ss.find(s) != -1
 
-
         # 方法3:暴力
         n = len(s)
         if n <= 1:
