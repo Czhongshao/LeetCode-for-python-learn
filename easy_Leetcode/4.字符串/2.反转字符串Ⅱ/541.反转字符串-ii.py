@@ -23,6 +23,5 @@ class Solution:
 
         return ''.join(res)
     
-    
 # @lc code=end
 
